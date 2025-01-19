@@ -1,11 +1,11 @@
 # Dijkstra-and-A-Search-Algorithm-with-CoppeliaSim
 Implementation Dijkstra and A* Search Algorithms in CoppeliaSim Robotics Simulation Program
 
-In study 1, the Quadcopter was observed to follow the path manually added to the scene. 
+In study 1(131124.ttt), the Quadcopter was observed to follow the path manually added to the scene. 
 
-In the 2nd study, Dijkstra's algorithm was applied on the Quadcopter and it was observed to reach the target point by avoiding obstacles and then returning to the shortest path it found.
+In the 2nd study(dijkstra-3.ttt), Dijkstra's algorithm was applied on the Quadcopter and it was observed to reach the target point by avoiding obstacles and then returning to the shortest path it found.
 
-In study 3, the same process was repeated for the A* search algorithm.
+In study 3(a_star.ttt), the same process was repeated for the A* search algorithm.
 
 One of the most important points about this study is that the code file is added to the target object of the Quadcopter. Otherwise the Quadcopter will not move. 
 
